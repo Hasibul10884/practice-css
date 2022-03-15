@@ -1,0 +1,61 @@
+h1{ 
+    color: blueviolet;
+    background-color: darkgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500; 
+    height: 40px;
+    width: 14%;
+      
+}
+h2{
+    color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+<!--Id-->
+
+#farhana{
+color: blue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: bisque;
+font-size: large;
+height: 25px;
+width: 13%;
+}
+#rabeya{
+color: brown;
+background-color: blanchedalmond;
+font-size: large;
+height: 25px;
+width: 19%;
+}
+.faru{
+color: blueviolet;
+font-size: large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: aquamarine;
+height: 25px;
+width: 52%;
+font-weight: 500;
+}
+p{
+color: darkblue;
+font-size: 20px;
+font-weight: 600;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nice{
+color: brown;
+font-weight: 900;
+}
+.tour{
+background-color: blanchedalmond;
+color: blueviolet;
+font-size: larger;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 10px solid blue;
+border-radius: 30px ;
+margin: 30px;
+padding: 10px 15px;
+text-align: center;
+}
